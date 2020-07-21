@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hystrix-test.iml" filepath="$PROJECT_DIR$/hystrix-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-test-api/hystrix-test-api.iml" filepath="$PROJECT_DIR$/hystrix-test-api/hystrix-test-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-test-client/hystrix-test-client.iml" filepath="$PROJECT_DIR$/hystrix-test-client/hystrix-test-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-test-provider/hystrix-test-provider.iml" filepath="$PROJECT_DIR$/hystrix-test-provider/hystrix-test-provider.iml" />
+    </modules>
+  </component>
+</project>

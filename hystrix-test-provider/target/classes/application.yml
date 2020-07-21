@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://47.105.41.157:3306/learn
+    username: root
+    password: 123456
+
+mybatis:
+  mapperLocations: classpath:mappers/*.xml
+  type-aliases-package: com.hystrix.bean
